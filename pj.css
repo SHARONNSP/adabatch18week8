@@ -1,0 +1,128 @@
+body{
+	background: url("landscape.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+
+#section1{
+	height: 1200px;
+	color: white;
+	font-family: pt sans;
+}
+
+/*mouse point to the brand turn black*/
+.container .navbar-brand{
+	color: #808080;
+	font-weight: 800;
+
+}
+
+/*not working*/
+#moreinfo{
+	font-weight: 800;
+	color: #808080;
+	
+}
+html {
+	height: 100%;
+	scroll-behavior: smooth;
+}
+
+.content {
+	text-align: center;
+	padding-top: 25%;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 4em;
+}
+
+p{
+	font-weight: 800;
+}
+
+.line{
+	width: 110px;
+	border: 0.5px white solid;
+}
+
+#section2{
+	font-family: noto sans;
+}
+
+/*not working*/
+.button{
+	font-weight: 800;
+}
+
+#photo1{
+	width: 400px;
+}
+
+#photo2{
+	width: 400px;
+}
+
+.jumbotron{
+	padding: 20px 0px 50px 0px;
+	color: #000080;
+}
+
+.title{
+	padding-left: 42%;
+}
+
+.subline{
+	padding-left:40%;
+	padding-top: 5px;
+}
+
+.con1{
+	padding-left: 15%;
+}
+
+#table#price{
+	height: 50px;
+}
+
+#photo{
+	text-align: center;
+	padding-top: 70px;
+}
+
+.pos{
+	padding-top: 5px;
+}
+
+h5{
+	text-align: center;
+}
+
+.form-row{
+	padding-top: 50px;
+	padding-left: 32%;
+	padding-bottom: 100px;
+}
+
+.container-bottom{
+	background-color: #303030;
+	padding-top: 50px;
+}
+
+#logo{
+	width: 150px;
+}
+
+.title2{
+	color: white;
+	font-weight: 800;
+}
+
+.cont{
+	color: grey;
+	font-weight: normal;;
+}
+
